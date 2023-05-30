@@ -5,9 +5,9 @@ const Calculator = () => (
   <div className="calculator">
     <input type="text" id="result" readOnly value={0} />
     <div className="buttons">
-      <Button className="operation">+/-</Button>
-      <Button className="operation">+/-</Button>
-      <Button className="operation">%</Button>
+      <Button>A/C</Button>
+      <Button>+/-</Button>
+      <Button>%</Button>
       <Button className="operation">÷</Button>
 
       <Button>7</Button>
@@ -23,9 +23,9 @@ const Calculator = () => (
       <Button>2</Button>
       <Button>3</Button>
       <Button className="operation">+</Button>
-      <Button>0</Button>
+      <Button className="zero">0</Button>
       <Button>.</Button>
-      <Button className="operation equal">=</Button>
+      <Button className="operation">=</Button>
     </div>
   </div>
 );

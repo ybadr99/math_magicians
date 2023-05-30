@@ -3,7 +3,6 @@
   flex-direction: column;
   width: 50%;
   background-color: #f5f5f5;
-  padding: 10px;
   border-radius: 5px;
   margin: 0 auto;
 }
@@ -33,6 +32,7 @@ button {
   border: none;
   cursor: pointer;
   font-size: 18px;
+  font-weight: 400;
 }
 
 .operation {
@@ -43,7 +43,7 @@ button {
   background-color: #f5903ee8 !important;
 }
 
-.equal {
+.zero {
   grid-column: span 2;
 }
 
