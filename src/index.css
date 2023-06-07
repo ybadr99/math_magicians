@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
 
 * {
-  /* margin: 0;
-  padding: 0; */
   box-sizing: border-box;
 }
 
@@ -121,7 +119,6 @@ nav h1 {
 }
 
 li:not(:last-child)::after {
-  /* li::after { */
   content: '|';
   color: black;
   font-size: 20px;
