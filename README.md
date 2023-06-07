@@ -10,6 +10,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+- [Future Features ](#future-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -39,6 +40,14 @@ Read a random math-related quote.
 
 - [ ] **Make simple calculations.**
 - [ ] **Read a random math-related quote.**
+
+# Future Features <a name="future-features"></a>
+
+- Interactive Graphs: Enhance math calculations with interactive graphs for visualizing functions or data points.
+
+- Multi-Language Support: Enable users to switch between languages for math calculations and random quotes, leveraging localization libraries.
+
+- User Authentication & Preferences: Implement user authentication and preferences to save custom settings, favorite quotes, and calculation history.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
