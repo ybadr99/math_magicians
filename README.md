@@ -18,7 +18,6 @@
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 # 📖 Math Magicians <a name="about-project"></a>
@@ -95,7 +94,7 @@ To run tests, run the following commands:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/ybadr99/leaderboard/issues).
+Feel free to check the [issues page](https://github.com/ybadr99/math_magicians/issues).
 Contributions, issues, and feature requests are welcome!
 
 <!-- SUPPORT -->
@@ -103,12 +102,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project:thumbsup:
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank [Leaderboard API](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 <!-- LICENSE -->
 
