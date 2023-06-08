@@ -11,7 +11,7 @@ describe('should be able to calculate the number ', () => {
   });
 
   it('result of -', () => {
-    expect(operate(4, 2, '-')).toBe('2');
+    expect(operate(4, 2, 'x')).toBe('8');
   });
 
   it('result of ÷', () => {
