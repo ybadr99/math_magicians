@@ -1,7 +1,7 @@
 import calculate from '../logic/calculate';
 
 describe('should return the object of operation', () => {
-  it('should be return empty obj', () => {
+  it('should return empty obj', () => {
     const obj = {
       total: 3,
       next: 2,
@@ -14,7 +14,7 @@ describe('should return the object of operation', () => {
     });
   });
 
-  it('should be return total sum', () => {
+  it('should return total sum', () => {
     const obj = {
       total: 3,
       next: 2,

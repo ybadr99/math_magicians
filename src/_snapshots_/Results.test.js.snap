@@ -1,0 +1,6 @@
+exports[`renders 1`] = `
+<div
+  id="result">
+  123
+</div>
+`;
