@@ -1,7 +1,7 @@
 import calculate from '../logic/calculate';
 
 describe('should return the object of operation', () => {
-  it('should return empty obj', () => {
+  it('Test the AC button', () => {
     const obj = {
       total: 3,
       next: 2,
@@ -14,7 +14,7 @@ describe('should return the object of operation', () => {
     });
   });
 
-  it('should return total sum', () => {
+  it('Test the + button', () => {
     const obj = {
       total: 3,
       next: 2,
@@ -27,5 +27,25 @@ describe('should return the object of operation', () => {
       next: null,
       operation: null,
     });
+  });
+
+  it('Test x button on calculator', () => {
+    const result = calculate(
+      { total: '1000', next: '75', operation: 'x' },
+      '=',
+    );
+    expect(result).toStrictEqual({
+      total: '75000',
+      next: null,
+      operation: null,
+    });
+  });
+
+  it('Test +/- button on calculator', () => {
+    const result = calculate(
+      { total: -12, next: null, operation: null },
+      '+/-',
+    );
+    expect(result).toStrictEqual({ total: '12', next: null, operation: null });
   });
 });

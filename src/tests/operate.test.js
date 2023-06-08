@@ -17,4 +17,8 @@ describe('should be able to calculate the number ', () => {
   it('result of ÷', () => {
     expect(operate(4, 2, '÷')).toBe('2');
   });
+
+  it('result of %', () => {
+    expect(operate(5, 2, '%')).toBe('1');
+  });
 });
