@@ -10,6 +10,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+- [Future Features ](#future-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -18,7 +19,6 @@
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 # 📖 Math Magicians <a name="about-project"></a>
@@ -40,6 +40,14 @@ Read a random math-related quote.
 
 - [ ] **Make simple calculations.**
 - [ ] **Read a random math-related quote.**
+
+# Future Features <a name="future-features"></a>
+
+- Interactive Graphs: Enhance math calculations with interactive graphs for visualizing functions or data points.
+
+- Multi-Language Support: Enable users to switch between languages for math calculations and random quotes, leveraging localization libraries.
+
+- User Authentication & Preferences: Implement user authentication and preferences to save custom settings, favorite quotes, and calculation history.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -95,7 +103,7 @@ To run tests, run the following commands:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/ybadr99/leaderboard/issues).
+Feel free to check the [issues page](https://github.com/ybadr99/math_magicians/issues).
 Contributions, issues, and feature requests are welcome!
 
 <!-- SUPPORT -->
@@ -103,12 +111,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project:thumbsup:
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> I would like to thank [Leaderboard API](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 <!-- LICENSE -->
 

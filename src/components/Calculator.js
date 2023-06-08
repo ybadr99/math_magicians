@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Button from './Button';
 import calculate from '../logic/calculate';
 import Result from './Result';
-import Quote from './Quote';
 
 const Calculator = () => {
   const [obj, setObj] = useState({});
@@ -12,7 +11,9 @@ const Calculator = () => {
   };
 
   return (
-    <>
+    <div className="calculator-container container">
+      <h2>Let`s do some math!</h2>
+
       <div className="calculator">
         <Result obj={obj} />
         <div className="buttons">
@@ -51,9 +52,7 @@ const Calculator = () => {
           </Button>
         </div>
       </div>
-
-      <Quote />
-    </>
+    </div>
   );
 };
 

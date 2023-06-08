@@ -25,11 +25,13 @@ const Quote = () => {
   }, []);
 
   return (
-    <h2 className="center">
-      {hasError && <div>Some thing went wrong!</div>}
-      {loading && <div>Loading...</div>}
-      <span>{quote}</span>
-    </h2>
+    <div className="container">
+      <h2 className="quote">
+        {hasError && <div>Some thing went wrong!</div>}
+        {loading && <div>Loading...</div>}
+        <span>{quote}</span>
+      </h2>
+    </div>
   );
 };
 
