@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components snapshot Calculator snapshot 1`] = `
+<div>
+  <div
+    class="calculator-container container"
+  >
+    <h2>
+      Let\`s do some math!
+    </h2>
+    <div
+      class="calculator"
+    >
+      <div
+        id="result"
+      >
+        <p />
+      </div>
+      <div
+        class="buttons"
+      >
+        <button
+          class=""
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="operation"
+          type="button"
+        >
+          ÷
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          9
+        </button>
+        <button
+          class="operation"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class="operation"
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class="operation"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="zero"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class=""
+          type="button"
+        >
+          .
+        </button>
+        <button
+          class="operation"
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Components snapshot Home snapshot 1`] = `
+<div>
+  <div
+    class="container content"
+  >
+    <h1>
+      Welcome to our page!
+    </h1>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci cumque perspiciatis, iure vero, magnam deleniti consequuntur dolorum eligendi a eaque asperiores cum suscipit illum provident, earum voluptatibus ipsam eum quia. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci cumque perspiciatis, iure vero, magnam deleniti consequuntur dolorum eligendi a eaque asperiores cum suscipit illum provident, earum voluptatibus ipsam eum quia.
+    </p>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci cumque perspiciatis, iure vero, magnam deleniti consequuntur dolorum eligendi a eaque asperiores cum suscipit illum provident, earum voluptatibus ipsam eum quia.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Components snapshot Quotes snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h2
+      class="quote"
+    >
+      <div>
+        Loading...
+      </div>
+      <span />
+    </h2>
+  </div>
+</div>
+`;
