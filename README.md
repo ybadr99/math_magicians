@@ -7,10 +7,11 @@
 [📗 Table of Contents](#-table-of-contents)
 
 - [📖 Math Magicians ](#-math-magicians-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
+    - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
-- [Future Features ](#future-features-)
+    - [Future Features ](#future-features-)
+  
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -28,9 +29,7 @@
 Make simple calculations.
 Read a random math-related quote.
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
+### 🛠 Built With <a name="built-with"></a>
 
 - HTML
 - CSS
@@ -48,6 +47,9 @@ Read a random math-related quote.
 - Multi-Language Support: Enable users to switch between languages for math calculations and random quotes, leveraging localization libraries.
 
 - User Authentication & Preferences: Implement user authentication and preferences to save custom settings, favorite quotes, and calculation history.
+
+## 🚀 Live demo <a name="live-demo">https://math-magicians-2v0j.onrender.com</a>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
